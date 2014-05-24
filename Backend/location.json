@@ -1,0 +1,12 @@
+{
+    "City" : "A",
+	  "Postion" : {
+		"Longitude" : 9.96233,
+		"Latitude" : 49.80404
+	}
+	  "City" : "B",
+	  "Postion" : {
+		"Longitude" : 9.96233,
+		"Latitude" : 13.45
+	}
+}
